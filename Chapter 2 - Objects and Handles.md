@@ -17,3 +17,5 @@ DWORD flag;
 ::GetHandleInformation(hObject, flag);
 ```
 
+Test image:
+![my image](https://github.com/s4nsec/Notes/blob/main/aprocess.png)
